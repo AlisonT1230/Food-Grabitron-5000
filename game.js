@@ -49,7 +49,7 @@ var dangers = [];
 var explosions = [];
 
 //LEADERBOARD
-var leaderboard = [{name: "YOMAMA", score: 524}, {name:"ABC", score: 496}, {name: "EYY", score: 347}];
+var leaderboard = [{name: "BEST", score: 524}, {name:"ABC", score: 496}, {name: "WORST", score: 347}];
 
 var player = {
 	src: pImg1,
